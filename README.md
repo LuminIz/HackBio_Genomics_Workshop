@@ -17,4 +17,10 @@ The week's were focused on:
 I worked on 3 datasets and chose to use FASTQC,FASTP, AND MULTIQC for the task. You an find my codes in Stage1.sh
 
 
+## WEEK 3 (Stage 2)
+This week's theme was "Standing on the shoulders of giants". This week featured a live coding assessment in addition to the week's task.
+For the assessment, the task was to perform mapping on some datasets using Bowtie2 (to generate a .sam file). Please find my codes in livetest.sh.
+Also find the reference tutorial that guided my codes here: https://www.protocols.io/view/week-6-mapping-with-bowtie2-kqdg3qyev25z/v2
+
+
 Thank you!
